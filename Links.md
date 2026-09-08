@@ -8,3 +8,6 @@ This reflection paper explores potential approaches for linking medicine packagi
 
 1. [ePI Pilot Report: Report on Experience Gained from the Creation of ePI During Regulatory Procedures for EU Human Medicines](https://www.ema.europa.eu/en/documents/report/electronic-product-information-epi-report-experience-gained-creation-epi-during-regulatory-procedures-eu-human-medicines_en.pdf)
 Published: September 2024
+
+4. [ePI - Guide for Translators](https://plm-portal.ema.europa.eu/guidance-and-help/article/?artid=KA-02931)
+
