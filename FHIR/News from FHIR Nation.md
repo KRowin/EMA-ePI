@@ -6,3 +6,9 @@
 ## Hospitals on FHIR
 - [Hospitals on FHIR Webinar 25 June 2026](https://hl7europe.org/hospitals-on-fhir-webinar-25-june-2026/)
 - [Hospitals on FHIR Webinar 29 May 2026](https://hl7europe.org/hospitals-on-fhir-webinar-29-may-2026/)
+## SynderAI
+[SYNDERAI – Synthetic Data for the European Health Data Space](https://hl7europe.org/synderai-synthetic-data-for-the-european-health-data-space/)
+# HL7 International
+[Biomedical Research and Regulation](https://www.hl7.org/Special/committees/rcrim/index.cfm)
+## FHIR definitions
+### [Medication Definition](https://build.fhir.org/medication-definition-module.html)
